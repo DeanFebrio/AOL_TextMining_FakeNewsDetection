@@ -1,2 +1,4 @@
 .venv
-data/
+data/test/test.csv
+data/train/train.csv
+data/processed/
