@@ -190,14 +190,3 @@ python -m pip install -r requirements.txt
 ```
 
 ---
-
-## 📞 Bantuan
-
-Jika mengalami kendala selama proses instalasi atau eksekusi proyek, silakan sertakan:
-
-* Pesan error lengkap
-* Versi Python (`python --version`)
-* Sistem operasi yang digunakan
-* Langkah yang sedang dijalankan
-
-Informasi tersebut akan membantu proses identifikasi dan penyelesaian masalah dengan lebih cepat.
