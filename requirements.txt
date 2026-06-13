@@ -12,3 +12,4 @@ ydata-profiling
 ipykernel
 sentencepiece
 nltk
+bs4
